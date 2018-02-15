@@ -1,0 +1,1 @@
+Based on Dmitri Tymoczko's 'recipe' for synthesizing progressing similar to Chopin's E minor prelude and F minor Mazurka. 
